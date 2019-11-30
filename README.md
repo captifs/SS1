@@ -2,8 +2,6 @@ Tema1 SS
 Am format matricea Hurwitz conform: H = (an-1 	an-3	 an-5 )		(a2	a0 	0 )
 					(an   	an-2	 an-3 )   =) 	(a3	a1	0 )     =)
 					( 0 	an-1	 an-3 )		(a0	a2	a0)
-
-
 	(1.5386	3.6277 	0     )
 H = 	(  1	3.9354 	0     )
 	(  0	1.5386  3.6277)
