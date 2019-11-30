@@ -116,7 +116,7 @@ Apoi observ ca graficul lui rasp_libr tinde asimptotic la 0
 caci P_tan este stabil
 `plot(rasp_libr)`
 
-S = stepinfo(P_tan)
+`S = stepinfo(P_tan)`
  Pentru ca  sa aflu valorile din P_tan pentru:
 1. tc1 - timpul de crestere
 1. tt1 - timpul tranzitoriu
