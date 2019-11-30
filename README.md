@@ -1,4 +1,4 @@
-
+# Stability and Reponse of the Helicopter Movement
 
 Initial am format matricea Hurwitz.
 
